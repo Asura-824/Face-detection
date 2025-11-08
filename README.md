@@ -20,7 +20,7 @@ To run this script, you need to have **Python** installed on your system, along 
 
 1.  **Clone the repository** (if you're hosting this on GitHub):
     ```bash
-    git clone [YOUR_REPOSITORY_URL]
+    git clone https://github.com/Asura-824/Face-detection.git
     cd face-detection-opencv
     ```
 
